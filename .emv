@@ -1,0 +1,2 @@
+PORT = 8000
+MONGO_URI = "mongodb+srv://Fahad:Fahad01314@cluster0.mjsxqoe.mongodb.net/?appName=Cluster0"
